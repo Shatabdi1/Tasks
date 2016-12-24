@@ -1,0 +1,26 @@
+#square
+{
+
+
+	width:150px;
+	height:150px;
+	background-color:rgb(210,220,200);
+}
+
+#rect
+{
+	border : 0px white solid;
+	width:250px;
+	height:150px;
+	background-color:rgb(210,220,200);
+		
+}
+
+#circle
+{
+	border : 0px white solid;
+	width:150px;
+	height:150px;
+	background-color:rgb(210,220,200);
+	border-radius : 150px
+}
